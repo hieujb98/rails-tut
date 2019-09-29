@@ -1,0 +1,8 @@
+<%= link_to "English", locale:"en" %>
+<%= link_to "Vietnamese", locale:"vi" %>
+<% provide(:title, "Help") %>
+<h1><%= t(".help") %></h1>
+<p>
+  <%= t(".pagehelp") %> <%= link_to "Rails Tutorial Help Page.", "https://www.railstutorial.org/help"%>
+  <%= t(".applihelp") %> <%= link_to "Ruby on Rails Tutorial Book", "https://www.railstutorial.org/book" %>
+</p>

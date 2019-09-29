@@ -1,0 +1,16 @@
+vi:
+  static_pages:
+    home:
+      sample: Ứng dụng
+      thispage: Đây là trang chủ của
+    help:
+      help: Trợ giúp
+      pagehelp: Sự trợ giúp về Ruby on Rails Tutorial tại
+      applihelp: Trợ giúp về ứng dụng hãy xem tại
+    about: 
+      rort: Ruby on Rails Tutorial
+      tl: Tài liệu Ruby on Rails
+      ss: Screencast series dạy phát triển web
+      thisis: Ví dụ về ứng dụng
+    contact: 
+      railsc: Liên hệ với Ruby on Rails về ứng dụng tại 
